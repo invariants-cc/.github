@@ -1,4 +1,3 @@
-# .github
 # invariants.cc
 
 *Notes on building infrastructure-grade systems — with AI as both a tool and a component.*
