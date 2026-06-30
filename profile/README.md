@@ -15,4 +15,4 @@ I build and write with AI assistants in separate, cross-reviewing roles under my
 ## Elsewhere
 
 - Blog: [invariants.cc](https://invariants.cc)
-- Author: Cris PM
+- Author: [Cris PM](https://linkedin.com/in/crispedregal/)
