@@ -1,7 +1,7 @@
 # .github
 # invariants.cc
 
-*Notes on building infrastructure-grade systems — with AI as both a tool and a material.*
+*Notes on building infrastructure-grade systems — with AI as both a tool and a component.*
 
 This organization hosts the companion code for [invariants.cc](https://invariants.cc).
 
